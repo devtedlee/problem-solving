@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/devtedlee/problem-solving/tree/master/0046-permutations) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devtedlee/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/devtedlee/problem-solving/tree/master/0200-number-of-islands) |
 ## Two Pointers
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/devtedlee/problem-solving/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/devtedlee/problem-solving/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
